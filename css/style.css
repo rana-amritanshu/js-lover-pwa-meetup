@@ -1,0 +1,12 @@
+body{
+    background-color:#cdf4d9;
+}
+
+.media{
+    height: 100px;
+    align-items: center;
+}
+
+img{
+    max-height: 100%;
+}
